@@ -5,7 +5,8 @@ This repository showcases a comprehensive application of statistical methodologi
 ​1. California Real Estate: Descriptive Analysis
 ​Methodology: Performed an exploratory data audit of property markets.
 ​Key Skills: Mean/Median analysis, standard deviation, and data visualization to identify pricing trends and market outliers.
-![California Real Estate Analysis](Statistics-Image/California_Real_Estate_Analysis.png)
+
+
 
 ​2. Confidence Interval Analysis: Inferential Statistics
 ​Methodology: Moved beyond raw data to estimate population parameters with 95% confidence.
