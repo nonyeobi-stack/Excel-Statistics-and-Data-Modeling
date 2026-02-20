@@ -19,8 +19,6 @@ This repository showcases a comprehensive application of statistical methodologi
 ​Log Transformation: Applied LN transforms to fix data skewness and ensure model linearity.
 ​Interactive Tool: Integrated an EXP function to convert abstract log-results back into real-world dollar valuations (e.g., predicting a 2020 Renault at $3,374).
 
-![Predictive Model & Price Predictor]<img width="990" height="408" alt="Predictive_Model_ _Price_Predictor_Image" src="https://github.com/user-attachments/assets/063bb028-daca-4761-a330-72e2876812ec" />
-
 ​🛠️ Technical Toolkit
 ​Analysis: Descriptive Statistics, Inferential Audits, Hypothesis Testing (P-Values, T-Stats).
 ​Modeling: Ordinary Least Squares (OLS) Regression, Dummy Variables, Log-Normal Transformations.
