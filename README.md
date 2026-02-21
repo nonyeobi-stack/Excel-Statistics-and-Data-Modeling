@@ -19,12 +19,13 @@ This repository showcases a comprehensive application of statistical methodologi
 
 ![Inferential Statistics 'Confidence Interval']<img width="1014" height="510" alt="Inferential_Statistics" src="https://github.com/user-attachments/assets/40836ec2-49ab-4ebe-a3e0-94648f213950" />
 
-
 ​3. Weight and Payroll: Statistical Inference Audit
 ​Methodology: Applied hypothesis testing to workplace and physiological data.
 ​Key Skills: Used T-testing and Z-testing to determine if observed variations in payroll and weight metrics were statistically significant or due to chance.
 
 ![Statistical Inference 'Weight Loss'l]<img width="1308" height="462" alt="Statistical_Inference_Weight_ _Payroll" src="https://github.com/user-attachments/assets/fc300c7e-7763-44eb-91c7-242a3b22eea3" />
+
+1[Hypothesis Testing HR Audit]<img width="1014" height="449" alt="Hypothesis_Testing_HR_Audit" src="https://github.com/user-attachments/assets/b51fcfd0-f507-4d8c-b8f4-3afc63129b0e" />
 
 ​4. Used Car Price Prediction: Multiple Linear Regression
 ​Methodology: Built a predictive model to estimate vehicle values based on mileage, year, and brand prestige.
@@ -34,6 +35,7 @@ This repository showcases a comprehensive application of statistical methodologi
 ![Predictive Model Summary]<img width="990" height="408" alt="Predictive_Model_Summary" src="https://github.com/user-attachments/assets/4588ec6d-4601-46a1-bc92-8f026e824a69" />
 
 ![Price Predictor]<img width="1009" height="586" alt="Price_Predictor" src="https://github.com/user-attachments/assets/97fe4885-e36e-48ce-ac20-369ec2b11fe7" />
+
 
 ​🛠️ Technical Toolkit
 ​Analysis: Descriptive Statistics, Inferential Audits, Hypothesis Testing (P-Values, T-Stats).
