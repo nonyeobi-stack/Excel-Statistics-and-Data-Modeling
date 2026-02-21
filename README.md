@@ -33,6 +33,8 @@ This repository showcases a comprehensive application of statistical methodologi
 
 ![Predictive Model Summary]<img width="990" height="408" alt="Predictive_Model_Summary" src="https://github.com/user-attachments/assets/4588ec6d-4601-46a1-bc92-8f026e824a69" />
 
+![Price Predictor]<img width="1009" height="586" alt="Price_Predictor" src="https://github.com/user-attachments/assets/97fe4885-e36e-48ce-ac20-369ec2b11fe7" />
+
 ​🛠️ Technical Toolkit
 ​Analysis: Descriptive Statistics, Inferential Audits, Hypothesis Testing (P-Values, T-Stats).
 ​Modeling: Ordinary Least Squares (OLS) Regression, Dummy Variables, Log-Normal Transformations.
