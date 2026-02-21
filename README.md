@@ -7,18 +7,23 @@ This repository showcases a comprehensive application of statistical methodologi
 ​Key Skills: Mean/Median analysis, standard deviation, and data visualization to identify pricing trends and market outliers.
 
 ![California Real Estate descriptive Analysis]<img width="1019" height="287" alt="California_Real_Estate_Analysis" src="https://github.com/user-attachments/assets/af6f335a-4424-417c-b6b9-6d96c12ff948" />
+
 ![Central Tendency and Market Volatility]<img width="1011" height="398" alt="Cental_Tendency_ _Market_Volatility" src="https://github.com/user-attachments/assets/f7f691d2-aa77-445e-bf95-9c1463cc9849" />
+
+![Price vs. Area]<img width="1014" height="564" alt="Price_vs_Area" src="https://github.com/user-attachments/assets/ef6cbcee-173c-410d-bbb8-c27f281b8133" />
 
 
 ​2. Confidence Interval Analysis: Inferential Statistics
 ​Methodology: Moved beyond raw data to estimate population parameters with 95% confidence.
 ​Key Skills: Calculated margins of error and confidence intervals to provide actionable business ranges for decision-making.
+
 ![Inferential Statistics 'Confidence Interval']<img width="1014" height="510" alt="Inferential_Statistics" src="https://github.com/user-attachments/assets/40836ec2-49ab-4ebe-a3e0-94648f213950" />
 
 
 ​3. Weight and Payroll: Statistical Inference Audit
 ​Methodology: Applied hypothesis testing to workplace and physiological data.
 ​Key Skills: Used T-testing and Z-testing to determine if observed variations in payroll and weight metrics were statistically significant or due to chance.
+
 ![Statistical Inference 'Weight Loss'l]<img width="1308" height="462" alt="Statistical_Inference_Weight_ _Payroll" src="https://github.com/user-attachments/assets/fc300c7e-7763-44eb-91c7-242a3b22eea3" />
 
 ​4. Used Car Price Prediction: Multiple Linear Regression
