@@ -24,7 +24,8 @@ This repository showcases a comprehensive application of statistical methodologi
 ​Methodology: Built a predictive model to estimate vehicle values based on mileage, year, and brand prestige.
 ​Log Transformation: Applied LN transforms to fix data skewness and ensure model linearity.
 ​Interactive Tool: Integrated an EXP function to convert abstract log-results back into real-world dollar valuations (e.g., predicting a 2020 Renault at $3,374).
-![Predictive Model Summary](image/Car_Price_Regression_Analysis.png)
+
+![Predictive Model Summary]<img width="990" height="408" alt="Predictive_Model_Summary" src="https://github.com/user-attachments/assets/4588ec6d-4601-46a1-bc92-8f026e824a69" />
 
 ​🛠️ Technical Toolkit
 ​Analysis: Descriptive Statistics, Inferential Audits, Hypothesis Testing (P-Values, T-Stats).
