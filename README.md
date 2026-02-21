@@ -7,6 +7,7 @@ This repository showcases a comprehensive application of statistical methodologi
 ​Key Skills: Mean/Median analysis, standard deviation, and data visualization to identify pricing trends and market outliers.
 
 ![California Real Estate descriptive Analysis]<img width="1019" height="287" alt="California_Real_Estate_Analysis" src="https://github.com/user-attachments/assets/af6f335a-4424-417c-b6b9-6d96c12ff948" />
+![Central Tendency and Market Volatility]<img width="1011" height="398" alt="Cental_Tendency_ _Market_Volatility" src="https://github.com/user-attachments/assets/f7f691d2-aa77-445e-bf95-9c1463cc9849" />
 
 
 ​2. Confidence Interval Analysis: Inferential Statistics
