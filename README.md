@@ -5,7 +5,7 @@ This repository showcases a comprehensive application of statistical methodologi
 ​1. California Real Estate: Descriptive Analysis
 ​Methodology: Performed an exploratory data audit of property markets.
 ​Key Skills: Mean/Median analysis, standard deviation, and data visualization to identify pricing trends and market outliers.
-![image alt](https://github.com/nonyeobi-stack/Statistics-Image/blob/2bf06ab38479dbdcc95906ee053a4c7e4bdd2cc2/California_Real_Estate_Analysis.png)
+
 
 
 ​2. Confidence Interval Analysis: Inferential Statistics
@@ -20,7 +20,7 @@ This repository showcases a comprehensive application of statistical methodologi
 ​Methodology: Built a predictive model to estimate vehicle values based on mileage, year, and brand prestige.
 ​Log Transformation: Applied LN transforms to fix data skewness and ensure model linearity.
 ​Interactive Tool: Integrated an EXP function to convert abstract log-results back into real-world dollar valuations (e.g., predicting a 2020 Renault at $3,374).
-
+![Predictive Model Summary}(https://github.com/nonyeobi-stack/Excel-Statistics-and-Data-Modeling/blob/ad0620b8123c4a3f995c760f54c356e0d5ecd122/image/Car_Price_Regression_Analysis.png)
 ​🛠️ Technical Toolkit
 ​Analysis: Descriptive Statistics, Inferential Audits, Hypothesis Testing (P-Values, T-Stats).
 ​Modeling: Ordinary Least Squares (OLS) Regression, Dummy Variables, Log-Normal Transformations.
