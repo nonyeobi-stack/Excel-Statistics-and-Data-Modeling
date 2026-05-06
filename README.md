@@ -1,5 +1,8 @@
 # Excel-Statistics-and-Data-Modeling
 This repository showcases a comprehensive application of statistical methodologies to solve real-world business problems using Microsoft Excel.
+.. You can view the full project here without downloading any file
+https://1drv.ms/f/c/b1c61790239414cc/IgDzwIQgGd9iTIO5mdyRsxosAZxspMfNgS-IW0Yo2TZXqKw?e=h1gp40
+
 ​📂 Project Case Studies
 
 ​1. California Real Estate: Descriptive Analysis
